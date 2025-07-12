@@ -1,5 +1,5 @@
 # Demo Video Link
-[[https://www.loom.com/share/726e133046a9469c8e3282af8735e123?sid=f58af501-2518-4505-b147-bd52c72cf636](https://www.loom.com/share/726e133046a9469c8e3282af8735e123?sid=699f02a5-6c8a-4f9a-aa9c-5aa1d884515b)](https://www.loom.com/share/726e133046a9469c8e3282af8735e123?sid=a5af5308-51d4-4c05-a162-c3196a9617dc)
+https://www.loom.com/share/726e133046a9469c8e3282af8735e123?sid=5ef66ec9-3e65-4974-8b68-fa56e1e52357
 
 # Buzzly AI UGC Platform Frontend
 
