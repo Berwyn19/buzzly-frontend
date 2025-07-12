@@ -1,3 +1,6 @@
+# Demo Video Link
+https://www.loom.com/share/726e133046a9469c8e3282af8735e123?sid=f58af501-2518-4505-b147-bd52c72cf636
+
 # Buzzly AI UGC Platform Frontend
 
 This is the frontend for **Buzzly**, an AI-driven platform for generating and managing user-generated content (UGC) videos. Built with **React** and **Tailwind CSS**, the app provides a seamless, real-time experience for users to submit products and view AI-generated video content.
